@@ -1,0 +1,19 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "File Manager using Node.js APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rybakN/File-Manager.git"
+  },
+  "author": "rybakn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rybakN/File-Manager/issues"
+  },
+  "homepage": "https://github.com/rybakN/File-Manager#readme"
+}
